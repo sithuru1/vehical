@@ -14,11 +14,11 @@ Rental Management: Process rentals, returns, and payments
 Reporting: Generate reports on rentals, revenue, and vehicle utilization
 
 Technologies Used
-Backend: [Specify your backend technology - e.g., php]
+Backend: [Specify your backend technology - php]
 
-Frontend: [Specify your frontend technology - e.g.,html,css js]
+Frontend: [Specify your frontend technology - html,css js]
 
-Database: [Specify your database - e.g., MySQL]
+Database: [Specify your database - MySQL]
 
 Other Tools: [vs code, xampp]
 
