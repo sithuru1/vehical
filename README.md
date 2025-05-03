@@ -14,16 +14,14 @@ Rental Management: Process rentals, returns, and payments
 Reporting: Generate reports on rentals, revenue, and vehicle utilization
 
 Technologies Used
-Backend: [Specify your backend technology - e.g., Java Spring Boot, Node.js, Python Django]
+Backend: [Specify your backend technology - e.g., php]
 
-Frontend: [Specify your frontend technology - e.g., React, Angular, Vue.js]
+Frontend: [Specify your frontend technology - e.g.,html,css js]
 
-Database: [Specify your database - e.g., MySQL, PostgreSQL, MongoDB]
+Database: [Specify your database - e.g., MySQL]
 
-Other Tools: [List any other important tools/libraries]
+Other Tools: [vs code, xampp]
 
-Installation Instructions
-Prerequisites
-[List any required software/tools with versions - e.g., Java JDK 11+, Node.js 14+, etc.]
+
 
 Database server (if applicable)
